@@ -1,4 +1,7 @@
 # MovieApp
+
+ The MovieApp is a web app that offers information about movies, actually it shows the latest movie, the popular Movies that showing now, now Playing Movies, top Rated Movies, upcoming Movies, trending Movies, originals(tv shows).
+
 ![a1](https://user-images.githubusercontent.com/68748043/197406600-d2e91a49-6763-43ab-807d-1200e0faccd2.PNG)
 ![a2](https://user-images.githubusercontent.com/68748043/197406611-04f44038-ac1d-4912-bfb6-673bf847ce57.PNG)
 ![a3](https://user-images.githubusercontent.com/68748043/197406618-1055d905-f092-438b-8a4b-d4c2a48e659a.PNG)
